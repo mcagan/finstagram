@@ -29,10 +29,13 @@ header {
   overflow: hidden;
   display: flex;
   align-items: baseline;
+  font-family: 'Niramit', sans-serif;
 }
 
 header > .login-info {
   margin-left: auto;
+  padding-right: 15px;
+  font-size: larger;
 }
 
 main {
